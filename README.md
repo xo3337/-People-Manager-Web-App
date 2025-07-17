@@ -1,6 +1,6 @@
 # 🧑‍💻 People Manager Web page
 
-This is a simple web application built with PHP, MySQL, HTML, and CSS. It allows you to:
+This is a simple web page built with PHP, MySQL, HTML, and CSS. It allows you to:
 
 - Add new people (name + age) to a MySQL database.
 - Display all records from the database.
@@ -15,9 +15,10 @@ This is a simple web application built with PHP, MySQL, HTML, and CSS. It allows
 ## 📦 Use
 - XAMPP
 - MySQL
-- Apache
+- PHP
 
-
+## ❓ How it work 
+- We use PHP to connect the database with the web page, and we use XAMPP as Local server.
 
 ## 📷 Preview
 - <img width="934" height="464" alt="Screenshot 2025-07-17 091025" src="https://github.com/user-attachments/assets/2c6bb346-9a02-40ae-9afd-66817fc2ea4f" />
